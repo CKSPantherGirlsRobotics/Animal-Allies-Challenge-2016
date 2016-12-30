@@ -21,27 +21,27 @@ The project files can be opened from within the EV3 Mindstorm software
 
 ## Resources
 
-# Line Following
+### Line Following
 * Types of line followers: http://ev3lessons.com/translations/en-us/advanced/LineFollower.pdf
 * https://www.grasp.upenn.edu/sites/default/files/ev3advanced2015.pdf
 * https://sites.google.com/site/gask3t/lego-ev3/my-projects/a-better-line-follower
 * http://masterwarriorsfll.weebly.com/line-following.html
 
-# Turning
+### Turning
 * http://masterwarriorsfll.weebly.com/different-ways-of-turning.html
 
-# Robot Design
+### Robot Design
 * http://www.fllstartingpoint.com/wp-content/uploads/2013/08/Robot-Design.pdf
 * http://outreach.engineering.asu.edu/azfll/wp-content/uploads/sites/2/2014/09/FLL-Robot-Design-2014.pdf
 
-# Straight Test
+### Straight Test
 * https://www.startingpoints.com/fll-ev3-robot-straight-test
 * https://www.youtube.com/watch?v=OlAO9Ho-N58
 
-# Wheels
+### Wheels
 * https://www.pinterest.com/pin/551972498061029643/
 
-# Other
+### Other
 * Builderdude35: https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g
 * FIRST LEGO League: https://www.youtube.com/user/FLLGlobal
 * Blue Angel: https://www.youtube.com/user/BlueAngelRobotics
