@@ -29,3 +29,24 @@ The project files can be opened from within the EV3 Mindstorm software
 
 # Turning
 * http://masterwarriorsfll.weebly.com/different-ways-of-turning.html
+
+# Robot Design
+* http://www.fllstartingpoint.com/wp-content/uploads/2013/08/Robot-Design.pdf
+* http://outreach.engineering.asu.edu/azfll/wp-content/uploads/sites/2/2014/09/FLL-Robot-Design-2014.pdf
+
+# Straight Test
+* https://www.startingpoints.com/fll-ev3-robot-straight-test
+* https://www.youtube.com/watch?v=OlAO9Ho-N58
+
+# Wheels
+* https://www.pinterest.com/pin/551972498061029643/
+
+# Other
+* Builderdude35: https://www.youtube.com/channel/UCuXq-jiU0ANeBcF_Tvq1D7g
+* FIRST LEGO League: https://www.youtube.com/user/FLLGlobal
+* Blue Angel: https://www.youtube.com/user/BlueAngelRobotics
+* Kevin Briggs: https://www.youtube.com/channel/UCeebzVOg5Iv4hVqKTFdaqUQ/videos
+* TheFLLCoach: https://www.youtube.com/channel/UCm4feGbgRMIHqT4NOPKSj0A
+* W.A.F.F.L.E.S Community Robotics: https://www.youtube.com/user/WAFFLESRobotics
+* Darren Wilson: https://www.youtube.com/user/thedarrenwilson/videos
+* LEGO Mindstorms EV3 Tutorials: https://www.youtube.com/channel/UCm5LnQhKAJoGKtCFytVngQQ
